@@ -18,7 +18,7 @@ return (
             <li><a href='#'>Item 3</a></li>
             </ul>
           </nav>
-          <span>Time now: {(new Date()).toLocaleTimeString()}</span>
+          <span>Time now: {(now).toLocaleTimeString()}</span>
         </header>
     </div>
 )
