@@ -1,3 +1,15 @@
 dt{
     font-weight: bold;
 }
+dt{
+    color: rgb(185, 35, 35);
+    justify-content: center;
+    font-size: 4vh;
+    display: flex;
+ }
+dd{
+    justify-content: right;
+    font-size: 2vh;
+    display: flex;
+    margin-left: 50%;
+}  
